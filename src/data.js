@@ -1,23 +1,23 @@
 export const sculptureList = [
   {
-    name: "Homenaje a la Neurocirugía",
-    artist: "Marta Colvin Andrade",
-    description:
-      "Strawberry Stand.",
+    name: "Kiron Roy",
+    artist: "Kiron Roy",
+    description: "Strawberry Stand.",
     url: "https://cdn.glitch.global/e388522d-6452-490a-b12c-129c1bef4aa2/strawberry.jpg?v=1744050085694",
     alt: "A bronze statue of two crossed hands delicately holding a human brain in their fingertips.",
   },
   {
-    name: "Floralis Genérica",
-    artist: "Eduardo Catalano",
+    name: "Kiron Roy",
+    artist: "Kiron Roy",
+
     description:
       "This enormous (75 ft. or 23m) silver flower is located in Buenos Aires. It is designed to move, closing its petals in the evening or when strong winds blow and opening them in the morning.",
     url: "https://i.imgur.com/ZF6s192m.jpg",
     alt: "A gigantic metallic flower sculpture with reflective mirror-like petals and strong stamens.",
   },
   {
-    name: "Eternal Presence",
-    artist: "John Woodrow Wilson",
+    name: "Kiron Roy",
+    artist: "Kiron Roy",
     description:
       'Wilson was known for his preoccupation with equality, social justice, as well as the essential and spiritual qualities of humankind. This massive (7ft. or 2,13m) bronze represents what he described as "a symbolic Black presence infused with a sense of universal humanity."',
     url: "https://i.imgur.com/aTtVpES.jpg",
@@ -25,7 +25,7 @@ export const sculptureList = [
   },
   {
     name: "Moai",
-    artist: "Unknown Artist",
+    artist: "Kiron Roy",
     description:
       "Located on the Easter Island, there are 1,000 moai, or extant monumental statues, created by the early Rapa Nui people, which some believe represented deified ancestors.",
     url: "https://i.imgur.com/RCwLEoQm.jpg",
@@ -33,7 +33,7 @@ export const sculptureList = [
   },
   {
     name: "Blue Nana",
-    artist: "Niki de Saint Phalle",
+    artist: "Kiron Roy",
     description:
       "The Nanas are triumphant creatures, symbols of femininity and maternity. Initially, Saint Phalle used fabric and found objects for the Nanas, and later on introduced polyester to achieve a more vibrant effect.",
     url: "https://i.imgur.com/Sd1AgUOm.jpg",
@@ -41,7 +41,7 @@ export const sculptureList = [
   },
   {
     name: "Ultimate Form",
-    artist: "Barbara Hepworth",
+    artist: "Kiron Roy",
     description:
       "This abstract bronze sculpture is a part of The Family of Man series located at Yorkshire Sculpture Park. Hepworth chose not to create literal representations of the world but developed abstract forms inspired by people and landscapes.",
     url: "https://i.imgur.com/2heNQDcm.jpg",
@@ -49,7 +49,7 @@ export const sculptureList = [
   },
   {
     name: "Cavaliere",
-    artist: "Lamidi Olonade Fakeye",
+    artist: "Kiron Roy",
     description:
       "Descended from four generations of woodcarvers, Fakeye's work blended traditional and contemporary Yoruba themes.",
     url: "https://i.imgur.com/wIdGuZwm.png",
@@ -57,7 +57,7 @@ export const sculptureList = [
   },
   {
     name: "Big Bellies",
-    artist: "Alina Szapocznikow",
+    artist: "Kiron Roy",
     description:
       "Szapocznikow is known for her sculptures of the fragmented body as a metaphor for the fragility and impermanence of youth and beauty. This sculpture depicts two very realistic large bellies stacked on top of each other, each around five feet (1,5m) tall.",
     url: "https://i.imgur.com/AlHTAdDm.jpg",
@@ -65,7 +65,7 @@ export const sculptureList = [
   },
   {
     name: "Terracotta Army",
-    artist: "Unknown Artist",
+    artist: "Kiron Roy",
     description:
       "The Terracotta Army is a collection of terracotta sculptures depicting the armies of Qin Shi Huang, the first Emperor of China. The army consisted of more than 8,000 soldiers, 130 chariots with 520 horses, and 150 cavalry horses.",
     url: "https://i.imgur.com/HMFmH6m.jpg",
@@ -73,7 +73,7 @@ export const sculptureList = [
   },
   {
     name: "Lunar Landscape",
-    artist: "Louise Nevelson",
+    artist: "Kiron Roy",
     description:
       "Nevelson was known for scavenging objects from New York City debris, which she would later assemble into monumental constructions. In this one, she used disparate parts like a bedpost, juggling pin, and seat fragment, nailing and gluing them into boxes that reflect the influence of Cubism’s geometric abstraction of space and form.",
     url: "https://i.imgur.com/rN7hY6om.jpg",
@@ -81,7 +81,7 @@ export const sculptureList = [
   },
   {
     name: "Aureole",
-    artist: "Ranjani Shettar",
+    artist: "Kiron Roy",
     description:
       'Shettar merges the traditional and the modern, the natural and the industrial. Her art focuses on the relationship between man and nature. Her work was described as compelling both abstractly and figuratively, gravity defying, and a "fine synthesis of unlikely materials."',
     url: "https://i.imgur.com/okTpbHhm.jpg",
@@ -89,7 +89,7 @@ export const sculptureList = [
   },
   {
     name: "Hippos",
-    artist: "Taipei Zoo",
+    artist: "Kiron Roy",
     description:
       "The Taipei Zoo commissioned a Hippo Square featuring submerged hippos at play.",
     url: "https://i.imgur.com/6o5Vuyu.jpg",
