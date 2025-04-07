@@ -93,7 +93,7 @@ export const sculptureList = [
   {
     name: 'Phone',
     artist: 'Kiron Roy',
-    description: 'answer the phone.',
+    description: 'Answer the phone.',
     url: 'https://cdn.glitch.global/e388522d-6452-490a-b12c-129c1bef4aa2/phone.jpg?v=1744050076927',
     alt: 'A group of bronze hippo sculptures emerging from the sett sidewalk as if they were swimming.',
   },
