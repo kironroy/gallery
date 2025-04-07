@@ -1,98 +1,111 @@
 export const sculptureList = [
   {
-    name: "Kiron Roy",
+    name: "Strawberry Stand",
     artist: "Kiron Roy",
-    description: "Strawberry Stand.",
+    description: "An abandoned strawberry stand.",
     url: "https://cdn.glitch.global/e388522d-6452-490a-b12c-129c1bef4aa2/strawberry.jpg?v=1744050085694",
-    alt: "A bronze statue of two crossed hands delicately holding a human brain in their fingertips.",
+    alt: "An abandoned Strawberry Stand.",
   },
   {
-    name: "Kiron Roy",
+    name: "Pipes",
     artist: "Kiron Roy",
-
-    description:
-      "This enormous (75 ft. or 23m) silver flower is located in Buenos Aires. It is designed to move, closing its petals in the evening or when strong winds blow and opening them in the morning.",
-    url: "https://i.imgur.com/ZF6s192m.jpg",
-    alt: "A gigantic metallic flower sculpture with reflective mirror-like petals and strong stamens.",
+    description: " Pipes for water?",
+    url: "https://cdn.glitch.global/e388522d-6452-490a-b12c-129c1bef4aa2/pipes2.jpg?v=1744050135184",
+    alt: "Pipes for water",
   },
   {
-    name: "Kiron Roy",
+    name: "Gas Station",
     artist: "Kiron Roy",
-    description:
-      'Wilson was known for his preoccupation with equality, social justice, as well as the essential and spiritual qualities of humankind. This massive (7ft. or 2,13m) bronze represents what he described as "a symbolic Black presence infused with a sense of universal humanity."',
-    url: "https://i.imgur.com/aTtVpES.jpg",
-    alt: "The sculpture depicting a human head seems ever-present and solemn. It radiates calm and serenity.",
+    description: 'Abandoned gas station."',
+    url: "https://cdn.glitch.global/e388522d-6452-490a-b12c-129c1bef4aa2/gas.jpg?v=1744050053380",
+    alt: "Abandoned gas station..",
   },
   {
-    name: "Moai",
+    name: "Fire",
     artist: "Kiron Roy",
-    description:
-      "Located on the Easter Island, there are 1,000 moai, or extant monumental statues, created by the early Rapa Nui people, which some believe represented deified ancestors.",
-    url: "https://i.imgur.com/RCwLEoQm.jpg",
-    alt: "Three monumental stone busts with the heads that are disproportionately large with somber faces.",
+    description: "Gallery on fire.",
+    url: "https://cdn.glitch.global/e388522d-6452-490a-b12c-129c1bef4aa2/fire.webp?v=1744050050337",
+    alt: "Gallery on fire.",
   },
   {
-    name: "Blue Nana",
+    name: "Oil",
     artist: "Kiron Roy",
-    description:
-      "The Nanas are triumphant creatures, symbols of femininity and maternity. Initially, Saint Phalle used fabric and found objects for the Nanas, and later on introduced polyester to achieve a more vibrant effect.",
-    url: "https://i.imgur.com/Sd1AgUOm.jpg",
-    alt: "A large mosaic sculpture of a whimsical dancing female figure in a colorful costume emanating joy.",
+    description: "Oil!.",
+    url: "https://cdn.glitch.global/e388522d-6452-490a-b12c-129c1bef4aa2/oil.jpg?v=1744050079519",
+    alt: "An oil rig in a field",
   },
   {
-    name: "Ultimate Form",
+    name: "Transformer",
     artist: "Kiron Roy",
-    description:
-      "This abstract bronze sculpture is a part of The Family of Man series located at Yorkshire Sculpture Park. Hepworth chose not to create literal representations of the world but developed abstract forms inspired by people and landscapes.",
-    url: "https://i.imgur.com/2heNQDcm.jpg",
-    alt: "A tall sculpture made of three elements stacked on each other reminding of a human figure.",
+    description: "An electric transformer.",
+    url: "https://cdn.glitch.global/e388522d-6452-490a-b12c-129c1bef4aa2/grid2.jpg?v=1744050067272",
+    alt: "An electric transformer.",
   },
   {
-    name: "Cavaliere",
+    name: "Blimp",
     artist: "Kiron Roy",
-    description:
-      "Descended from four generations of woodcarvers, Fakeye's work blended traditional and contemporary Yoruba themes.",
-    url: "https://i.imgur.com/wIdGuZwm.png",
-    alt: "An intricate wood sculpture of a warrior with a focused face on a horse adorned with patterns.",
+    description: "Air Blimp",
+    url: "https://cdn.glitch.global/e388522d-6452-490a-b12c-129c1bef4aa2/blimp.jpg?v=1744050021774",
+    alt: "Air Blimp.",
   },
   {
-    name: "Big Bellies",
+    name: "Home",
     artist: "Kiron Roy",
-    description:
-      "Szapocznikow is known for her sculptures of the fragmented body as a metaphor for the fragility and impermanence of youth and beauty. This sculpture depicts two very realistic large bellies stacked on top of each other, each around five feet (1,5m) tall.",
-    url: "https://i.imgur.com/AlHTAdDm.jpg",
-    alt: "The sculpture reminds a cascade of folds, quite different from bellies in classical sculptures.",
+    description: " This is home.",
+    url: "https://cdn.glitch.global/e388522d-6452-490a-b12c-129c1bef4aa2/pole.jpg?v=1744050089519",
+    alt: "House with a wooden fence.",
   },
   {
-    name: "Terracotta Army",
+    name: "Crow",
     artist: "Kiron Roy",
-    description:
-      "The Terracotta Army is a collection of terracotta sculptures depicting the armies of Qin Shi Huang, the first Emperor of China. The army consisted of more than 8,000 soldiers, 130 chariots with 520 horses, and 150 cavalry horses.",
-    url: "https://i.imgur.com/HMFmH6m.jpg",
-    alt: "12 terracotta sculptures of solemn warriors, each with a unique facial expression and armor.",
+    description: "Crow on a structure.",
+    url: "https://cdn.glitch.global/e388522d-6452-490a-b12c-129c1bef4aa2/crow.jpg?v=1744050110106",
+    alt: "Crow on a structure.",
   },
   {
-    name: "Lunar Landscape",
+    name: "Space in between",
     artist: "Kiron Roy",
-    description:
-      "Nevelson was known for scavenging objects from New York City debris, which she would later assemble into monumental constructions. In this one, she used disparate parts like a bedpost, juggling pin, and seat fragment, nailing and gluing them into boxes that reflect the influence of Cubism’s geometric abstraction of space and form.",
-    url: "https://i.imgur.com/rN7hY6om.jpg",
-    alt: "A black matte sculpture where the individual elements are initially indistinguishable.",
+    description: "Space in between two houses.",
+    url: "https://cdn.glitch.global/e388522d-6452-490a-b12c-129c1bef4aa2/space.jpg?v=1744050082258",
+    alt: "Space in between two houses.",
   },
   {
-    name: "Aureole",
+    name: "Lamp",
     artist: "Kiron Roy",
-    description:
-      'Shettar merges the traditional and the modern, the natural and the industrial. Her art focuses on the relationship between man and nature. Her work was described as compelling both abstractly and figuratively, gravity defying, and a "fine synthesis of unlikely materials."',
-    url: "https://i.imgur.com/okTpbHhm.jpg",
-    alt: "A pale wire-like sculpture mounted on concrete wall and descending on the floor. It appears light.",
+    description: "A lamp in the window",
+    url: "https://cdn.glitch.global/e388522d-6452-490a-b12c-129c1bef4aa2/lamp.webp?v=1744050101044",
+    alt: "A lamp in the window.",
   },
   {
-    name: "Hippos",
+    name: "A/C",
     artist: "Kiron Roy",
     description:
-      "The Taipei Zoo commissioned a Hippo Square featuring submerged hippos at play.",
-    url: "https://i.imgur.com/6o5Vuyu.jpg",
+      "Air conditioning unit.",
+    url: "https://cdn.glitch.global/e388522d-6452-490a-b12c-129c1bef4aa2/fan.jpg?v=1744050105347",
+    alt: "A group of bronze hippo sculptures emerging from the sett sidewalk as if they were swimming.",
+  },
+  {
+    name: "Binoculars",
+    artist: "Kiron Roy",
+    description:
+      "Look through the binoculars.",
+    url: "https://cdn.glitch.global/e388522d-6452-490a-b12c-129c1bef4aa2/binoculars2.jpg?v=1744050016565",
+    alt: "A group of bronze hippo sculptures emerging from the sett sidewalk as if they were swimming.",
+  },
+  {
+    name: "Phone",
+    artist: "Kiron Roy",
+    description:
+      "answer the phone.",
+    url: "https://cdn.glitch.global/e388522d-6452-490a-b12c-129c1bef4aa2/phone.jpg?v=1744050076927",
+    alt: "A group of bronze hippo sculptures emerging from the sett sidewalk as if they were swimming.",
+  },
+  {
+    name: "Key Shop",
+    artist: "Kiron Roy",
+    description:
+      "Local cut keys.",
+    url: "https://cdn.glitch.global/e388522d-6452-490a-b12c-129c1bef4aa2/key.jpg?v=1744050062501",
     alt: "A group of bronze hippo sculptures emerging from the sett sidewalk as if they were swimming.",
   },
 ];
